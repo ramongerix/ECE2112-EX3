@@ -85,9 +85,11 @@ The dataset used in these exercises contains information on various car models, 
 
 ---
 
-### 📎 Links
+### 📎 Links & Resources
 
 - **Problem 1 Notebook**: 👉 [Leynes_Pandas-P1.ipynb](https://github.com/ramongerix/ECE2112-EX3/blob/main/Leynes_Pandas-P1.py.ipynb)
+- **Basic writing and formatting syntax**: (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  
   
 ---
 
