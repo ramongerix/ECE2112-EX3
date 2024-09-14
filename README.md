@@ -39,8 +39,7 @@ Building on **P1**, this notebook dives deeper into advanced selection technique
 
 #### 🚀 Highlights:
 - **Data**: Deepen your understanding of the `cars` dataset.
-- **Link to Problem 1**: A seamless connection to `Leynes_Pandas-P1.ipynb` for context and continued learning. 
-  - 👉 [Access Problem 1 Here](https://github.com/ramongerix/ECE2112-EX3/blob/main/Leynes_Pandas-P1.py.ipynb)
+
 
 ---
 
