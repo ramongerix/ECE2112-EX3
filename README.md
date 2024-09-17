@@ -57,7 +57,7 @@ Building on **P1**, this notebook dives deeper into advanced selection technique
    jupyter notebook
    ```
 3. Open the respective notebook (either `P1` or `P2`).
-4. Execute the cells in sequence.
+4. View the .py scripts
 
 ---
 
