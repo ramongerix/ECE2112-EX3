@@ -51,7 +51,7 @@ Building on **P1**, this notebook dives deeper into advanced selection technique
 - **Jupyter Notebook** (or any compatible environment)
 
 ### How to Run:
-1. **Clone** or **Download** the `.ipynb` files into the same directory.
+1. **Clone** or **Download** the `.py` files into the same directory.
 2. Open a terminal and run:
    ```bash
    jupyter notebook
