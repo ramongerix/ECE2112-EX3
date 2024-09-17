@@ -114,4 +114,4 @@ cars.iloc[[1,28,18],[0, 2, 10]]
 
 # #### --------------------------------------------------------------------------------------------------------------
 # #### End of Problem 2, to access Problem 1 click this link to be redirected:
-# https://github.com/ramongerix/ECE2112-EX3/blob/main/Leynes_Pandas-P1.py.ipynb
+# https://github.com/ramongerix/ECE2112-EX3/blob/main/Leynes_Pandas-P2.py
