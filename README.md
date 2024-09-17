@@ -1,6 +1,6 @@
 # 🐼 Pandas Data Manipulation Problems (PA3)
 
-Welcome to the **Pandas Data Manipulation** problems! These Jupyter notebooks (`Leynes_Pandas-P1.py.ipynb` and `Leynes_Pandas-P2.py.ipynb`) guide you through working with **Pandas**, one of Python's most powerful libraries for data analysis and manipulation. The exercises are based on the **cars dataset** and focus on tasks like selecting, filtering, and displaying data.
+Welcome to the **Pandas Data Manipulation** problems! These Jupyter notebooks (`Leynes_Pandas-P1.py` and `Leynes_Pandas-P2.py`) guide you through working with **Pandas**, one of Python's most powerful libraries for data analysis and manipulation. The exercises are based on the **cars dataset** and focus on tasks like selecting, filtering, and displaying data.
 
 ---
 
@@ -25,7 +25,7 @@ This notebook introduces basic data manipulation techniques using **Pandas**.
 
 ---
 
-### 2️⃣ **Leynes_Pandas-P2.ipynb**
+### 2️⃣ **Leynes_Pandas-P2.py**
 
 Building on **P1**, this notebook dives deeper into advanced selection techniques and solving "Problem 2."
 
@@ -86,8 +86,8 @@ The dataset used in these exercises contains information on various car models, 
 
 ### 📎 Links & Resources
 
-- **Problem 1 Notebook**: 👉 [Leynes_Pandas-P1.ipynb](https://github.com/ramongerix/ECE2112-EX3/blob/main/Leynes_Pandas-P1.py.ipynb)
-- **Problem 2 Notebook**: 👉 [Leynes_Pandas-P2.ipynb](https://github.com/ramongerix/ECE2112-EX3/blob/main/Leynes_Pandas-P2.py.ipynb)
+- **Problem 1 Notebook**: 👉 [Leynes_Pandas-P1.py](https://github.com/ramongerix/ECE2112-EX3/blob/main/Leynes_Pandas-P1.py)
+- **Problem 2 Notebook**: 👉 [Leynes_Pandas-P2.py](https://github.com/ramongerix/ECE2112-EX3/blob/main/Leynes_Pandas-P2.py)
 - **Basic writing and formatting syntax**: (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   
   
