@@ -51,4 +51,4 @@ cars.tail()
 
 # #### --------------------------------------------------------------------------------------------------------------
 # #### End of Problem 1, to access Problem 2 click this link to be redirected:
-# https://github.com/ramongerix/ECE2112-EX3/blob/main/Leynes_Pandas-P2.py.ipynb
+# https://github.com/ramongerix/ECE2112-EX3/blob/main/Leynes_Pandas-P2.py
