@@ -6,7 +6,7 @@ Welcome to the **Pandas Data Manipulation** problems! These Jupyter notebooks (`
 
 ## ✨ Project Contents
 
-### 1️⃣ **Leynes_Pandas-P1.ipynb**
+### 1️⃣ **Leynes_Pandas-P1.py**
 
 This notebook introduces basic data manipulation techniques using **Pandas**.
 
